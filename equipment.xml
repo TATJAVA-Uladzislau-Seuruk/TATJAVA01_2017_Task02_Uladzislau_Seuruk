@@ -1,0 +1,5 @@
+<items>
+    <item category="football" title="boots" price="11">9</item>
+    <item title="cap" price="10">5</item>
+    <item category="baseball" title="bat" price="12">3</item>
+</items>
